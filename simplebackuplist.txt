@@ -1,0 +1,8 @@
+#
+#       Directories to Back-Up
+#
+#       SRC Dir     DEST  Dir      Prefix for tarball
+#================================================================
+/home/*           /bckup/homes/            homes
+
+
