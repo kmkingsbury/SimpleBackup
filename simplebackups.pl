@@ -15,7 +15,7 @@ use Data::Dumper;
 
 # Settings:
 my $numofbackups = 7;
-my $config = "backups.txt";
+my $config = "simplebackuplist.txt";
 
 
 my ($day, $mon, $year) = (localtime)[3..5];
